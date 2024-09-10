@@ -35,7 +35,7 @@ body {
   }
   
   .text-below {
-      bottom: -90px; 
+      bottom: -100px; 
   }
   @keyframes pulsate {
     0% {
