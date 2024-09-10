@@ -27,7 +27,7 @@ body {
       position: absolute;
       text-align: center;
       color: #fff;
-      font-size: 25px; 
+      font-size: 20px; 
   }
   
   .text-above {
@@ -35,7 +35,7 @@ body {
   }
   
   .text-below {
-      bottom: -100px; 
+      bottom: -90px; 
   }
   @keyframes pulsate {
     0% {
